@@ -1,6 +1,6 @@
 project:
-  name: "My Custom Chatbot"
-  description: "Powered by Chainlit and OpenAI"
+  name: "My Agentic AI Chatbot"
+  description: "Powered by Chainlit and OpenAI Agents sdk"
 
 theme:
   light:
