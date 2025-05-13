@@ -1,0 +1,16 @@
+project:
+  name: "My Custom Chatbot"
+  description: "Powered by Chainlit and OpenAI"
+
+theme:
+  light:
+    primary: "#2E7D32"
+    background: "#FFFFFF"
+  dark:
+    primary: "#388E3C"
+    background: "#1A1A1A"
+
+database:
+  enabled: true
+  type: "sqlite"
+  url: "chat_history.db"
